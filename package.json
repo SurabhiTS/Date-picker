@@ -5,7 +5,7 @@
   "scripts": {
     "test": "jest",
     "start": "parcel index.html",
-    "serve": "parcel build index.html"
+    "build": "parcel build index.html"
   },
   "author": "",
   "license": "ISC",
